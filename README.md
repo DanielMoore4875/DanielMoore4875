@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielMoore4875
-- 👀 I’m interested in Java, C, C++, Games, Computer building, Raspberry PI, Arduino, Programming & Gaming and maybe some video stuff
+- 👀 I’m interested in Java, C, C++, Games, Computer building, Raspberry Pi, Arduino, Programming & Gaming and maybe some video stuff
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on nothing atm, just browsing
 
